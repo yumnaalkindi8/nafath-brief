@@ -19,7 +19,11 @@ Cybersecurity protects digital systems against threats such as phishing, malware
 ## Data
 Data security protects information from unauthorized access, modification, disclosure, or loss. Encryption, access controls, and backups help protect data.
 ## Misconception in My Track
-A common misconception is that cybersecurity is only about hacking. In reality, it also includes risk management, security awareness, incident response, data protection, and prevention of cyber threats.
+“The means by which individuals and organisations reduce the risk of being affected by cyber crime.”
+
+Section: Cybersecurity Definitions for Non-Experts — Results.
+
+Source: National Institute of Standards and Technology (NIST).
 ## Open Question
     How can artificial intelligence improve cyber threat detection?
 * What are the best practices for securing mobile devices?
